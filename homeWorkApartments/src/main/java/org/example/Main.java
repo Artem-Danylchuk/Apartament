@@ -8,7 +8,7 @@ import java.util.Scanner;
 public class Main {
     static final String APARTMENTS_CONNECTION = "jdbc:mysql://localhost:3306/apartments?serverTimezone=Europe/Kiev";
     static final String APARTMENTS_USER = "root";
-    static final String APARTMENTS_PASWORD = "254551FhnmjV!";
+    static final String APARTMENTS_PASWORD = "password";
     static Connection conn;
 
     public Main() {}
